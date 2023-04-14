@@ -1,4 +1,4 @@
-# Optimize Finding Loan Prospects Based on Customer's Payment Behavior
+# ML Case Study - Optimize Finding Loan Prospects Based on Customer's Payment Behavior
 
 ## Background
 
